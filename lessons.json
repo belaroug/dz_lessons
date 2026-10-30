@@ -37,5 +37,18 @@
     "lesson_content": "<p>ملف PDF جاهز للمطالعة.</p>",
     "exercises_content": "",
     "pdf_url": "https://raw.githubusercontent.com/belaroug/dz_lessons/main/pdfs/doc_103.pdf"
+  },
+  {
+    "id": 104,
+    "grade": "2am",
+    "term": 1,
+    "subject": "اللغة الإنجليزية",
+    "type": "اختبار",
+    "order": 104,
+    "title": "English Tests - 2MS",
+    "date": "2026-10-30",
+    "lesson_content": "<p>ملف PDF جاهز للمطالعة.</p>",
+    "exercises_content": "",
+    "pdf_url": "https://raw.githubusercontent.com/belaroug/dz_lessons/main/pdfs/doc_104.pdf"
   }
 ]

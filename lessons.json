@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": 101,
+    "grade": "2am",
+    "term": 1,
+    "subject": "الرياضيات",
+    "type": "ملخص",
+    "order": 101,
+    "title": "molakhadfisik",
+    "date": "2026-10-30",
+    "lesson_content": "<p>ملف PDF جاهز للمطالعة.</p>",
+    "exercises_content": "",
+    "pdf_url": "https://raw.githubusercontent.com/belaroug/dz_lessons/main/pdfs/doc_101.pdf"
+  },
+  {
+    "id": 102,
+    "grade": "2am",
+    "term": 1,
+    "subject": "اللغة الإنجليزية",
+    "type": "اختبار",
+    "order": 102,
+    "title": "English Tests - 2MS",
+    "date": "2026-10-30",
+    "lesson_content": "<p>ملف PDF جاهز للمطالعة.</p>",
+    "exercises_content": "",
+    "pdf_url": "https://raw.githubusercontent.com/belaroug/dz_lessons/main/pdfs/doc_102.pdf"
+  }
+]
